@@ -1,0 +1,1 @@
+My project xamines how ozone levels influence California housing prices by integrating housing data with EPA air quality measurements. Utilizing spatial analysis and machine learning, the study highlights environmental factors affecting property values.(Vasyl Gural)
